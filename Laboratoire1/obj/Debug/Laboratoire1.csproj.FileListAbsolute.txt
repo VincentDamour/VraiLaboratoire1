@@ -66,3 +66,4 @@ E:\Session 5\Implantation\Laboratoire1\Laboratoire1\bin\fr\Microsoft.Web.WebPage
 E:\Session 5\Implantation\Laboratoire1\Laboratoire1\bin\fr\WebMatrix.WebData.resources.dll
 E:\Session 5\Implantation\Laboratoire1\Laboratoire1\obj\Debug\Laboratoire1.dll
 E:\Session 5\Implantation\Laboratoire1\Laboratoire1\obj\Debug\Laboratoire1.pdb
+E:\Session 5\Implantation\Laboratoire1\Laboratoire1\obj\Debug\Laboratoire1.csprojResolveAssemblyReference.cache
